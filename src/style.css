@@ -1,0 +1,9 @@
+canvas {
+  height: 80vh !important;
+}
+
+.drawings-container {
+  min-height: 600px;
+  display: flex;
+  align-items: center;
+}
